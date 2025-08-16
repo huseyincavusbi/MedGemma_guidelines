@@ -14,6 +14,7 @@ This notebook walks through the following key steps:
 5.  **Inference and Testing:** A simple test is performed to demonstrate the model's ability to generate guideline-style text based on a given source.
 6.  **Save and Upload:** Finally, the notebook shows how to save the resulting LoRA adapters locally and upload them to the Hugging Face Hub for future use.
 
+## Adapters on [Hugging Face](https://huggingface.co/huseyincavus/medgemma-4b-guidelines-lora)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
